@@ -8,7 +8,6 @@ Voice is the hardware companion for [Reverie](https://www.reverie.im), bringing 
 
 - 🎙️ **Real-time Voice Conversation** - Natural, low-latency dialogue with AI characters
 - 🎭 **Character Personality** - Each character has unique voice and speaking style
-- 🔊 **High-Quality Audio** - Premium speaker for immersive experience
 - 🌐 **Always Connected** - WiFi-enabled, seamless cloud integration
 - 🔓 **Open Source** - Fully hackable hardware and firmware
 
